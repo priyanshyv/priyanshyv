@@ -4,7 +4,10 @@
 
 
 
-![tenor (1)](https://github.com/user-attachments/assets/39e2f105-9251-45cb-8c05-4f3d83c79df6)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/39e2f105-9251-45cb-8c05-4f3d83c79df6" width="300" alt="tenor gif" />
+</p>
+
 - 🔭 I'm currently working on **Ecom Platform**
 - 👨‍💻 All of my projects are available at [Portfolio](https://priyanshyv.vercel.app/)
 - 📫 How to reach me: **priyansh.yv7@gmail.com**
