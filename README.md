@@ -4,14 +4,24 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/39e2f105-9251-45cb-8c05-4f3d83c79df6" width="300" alt="tenor gif" />
-</p>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I'm currently working on <strong>Ecom Platform</strong></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://priyanshyv.vercel.app/">Portfolio</a></li>
+        <li>📫 How to reach me: <a href="mailto:priyansh.yv7@gmail.com">priyansh.yv7@gmail.com</a></li>
+        <li>⚡ Fun fact: <strong>I hate nerds</strong></li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <img src="https://github.com/user-attachments/assets/39e2f105-9251-45cb-8c05-4f3d83c79df6" alt="tenor gif" width="160" />
+    </td>
+  </tr>
+</table>
 
-- 🔭 I'm currently working on **Ecom Platform**
-- 👨‍💻 All of my projects are available at [Portfolio](https://priyanshyv.vercel.app/)
-- 📫 How to reach me: **priyansh.yv7@gmail.com**
-- ⚡ Fun fact: **I hate nerds**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
